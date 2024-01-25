@@ -5,7 +5,7 @@
 <div align="center">
   <h2> Hi 👋 Nalinkumar here.</h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/gurunanthan-rameshkumar-1097ba204/">
+    <a href="https://www.linkedin.com/in/Nalin kumar/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/NanthanGuru">
