@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/nalinmanikandan02?theme=unicorn" alt="Leetcode Stats"/>
-</p>
-
 <div align="center">
   <h2> Hi 👋 Nalinkumar here.</h2>
   <div id="badges">
@@ -14,6 +10,9 @@
     <a href="https://auth.geeksforgeeks.org/user/mnalin02/">
       <img src="https://img.shields.io/badge/Geeks%20for%20Geeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
     </a>
+    <p align="center">
+      <img src="https://leetcard.jacoblin.cool/nalinmanikandan02?theme=unicorn" alt="Leetcode Stats"/>
+    </p>
   </div>
 </div>
 
