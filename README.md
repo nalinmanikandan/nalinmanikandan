@@ -20,7 +20,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nalinmanikandan&show_icons=true&theme=tokyonight&line_height=27&include_all_commits=true&count_private=true&hide=issues" width="502" alt="Nalinkumar's github stats"/>
 </a>
 #### 😄: Leetcode Stats :
-![Leetcode Stats](https://leetcard.jacoblin.cool/nalinmanikandan02?theme=unicorn)
+<a src="![Leetcode Stats](https://leetcard.jacoblin.cool/nalinmanikandan02?theme=unicorn)">
+  <img align="center" src="![Leetcode Stats](https://leetcard.jacoblin.cool/nalinmanikandan02?theme=unicorn)"
+</a>
 #### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
