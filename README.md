@@ -11,6 +11,9 @@
     <a href="https://leetcode.com/Nalinmanikandan02/">
       <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
     </a>
+    <a href="https://auth.geeksforgeeks.org/user/mnalin02/">
+      <img src="https://img.shields.io/badge/Geeks%20for%20Geeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    </a>
   </div>
 </div>
 
