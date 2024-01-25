@@ -11,10 +11,10 @@
       <img src="https://img.shields.io/badge/Geeks%20for%20Geeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
     </a>
     <hr/>
-    <hr/>
     <div align="center">
       <img src="https://leetcard.jacoblin.cool/nalinmanikandan02?theme=unicorn" alt="Leetcode Stats"/>
     </div>
+    <hr/>
   </div>
 </div>
 
