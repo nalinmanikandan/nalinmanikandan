@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/nalin-kumar-9bb22b214/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://leetcode.com/Nalinmanikandan02/">
+    <a href="https://leetcode.com/NalinKmanikandan02/">
       <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
     </a>
     <a href="https://auth.geeksforgeeks.org/user/mnalin02/">
@@ -47,3 +47,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 </div>
+
